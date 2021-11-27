@@ -1,5 +1,5 @@
 Hi, I’m @G-c-the-dog
-I’m currently learning html, c++, c#
+I’m currently learning html, c++, c# 
 How to reach me? On bit.ly/g-c-web (It's my cite rn)
 
 <!---
